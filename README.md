@@ -1,1 +1,1 @@
-# rEFInd-on-OSX-El-Captain
+# rEFInd on OSX El Captain
